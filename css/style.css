@@ -39,6 +39,7 @@ body {
 }
 
 .navegacao {
+  max-width: 2000px;
   justify-content: center;
   display: flex;
   flex-wrap: wrap;
@@ -185,6 +186,9 @@ h1 {
   backdrop-filter: blur(10px);
   background: rgba(225, 225, 225, 0.05);
 }
+.Git:hover {
+  color: var(--secundaria);
+}
 
 .GitHub {
   padding: 2rem;
@@ -194,8 +198,9 @@ h1 {
   backdrop-filter: blur(10px);
   background: rgba(225, 225, 225, 0.05);
 }
-
-
+.GitHub:hover {
+  color: var(--secundaria);
+}
 .html {
   justify-content: center;
   padding: 2rem;
