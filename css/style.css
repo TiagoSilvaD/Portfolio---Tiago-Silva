@@ -6,7 +6,6 @@
 }
 
 html {
-  flex-wrap: wrap;
   scroll-behavior: smooth ;
 }
 
@@ -40,6 +39,9 @@ body {
 }
 
 .navegacao {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
   position: fixed;
   top: 0;
   background: rgba(15, 23, 42, 0.8);
