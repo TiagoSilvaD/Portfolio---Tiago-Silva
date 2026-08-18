@@ -201,7 +201,7 @@ h1 {
 .GitHub:hover {
   color: var(--secundaria);
 }
-.html {
+.sql {
   justify-content: center;
   padding: 2rem;
   max-width: 500px;
@@ -210,12 +210,12 @@ h1 {
   backdrop-filter: blur(10px);
   background: rgba(225, 225, 225, 0.05);
 }
-.html:hover {
+.sql:hover {
   color: var(--secundaria);
 }
 
 
-.css {
+.python{
   padding: 2rem;
   max-width: 500px;
   border-radius: 16px;
@@ -223,11 +223,11 @@ h1 {
   backdrop-filter: blur(10px);
   background: rgba(225, 225, 225, 0.05);
 }
-.css:hover {
+.python:hover {
   color: var(--secundaria);
 }
 
-.js {
+.excel {
   padding: 2rem;
   max-width: 560px;
   border-radius: 16px;
@@ -235,11 +235,11 @@ h1 {
   backdrop-filter: blur(10px);
   background: rgba(225, 225, 225, 0.05);
 }
-.js:hover {
+.excel:hover {
   color: var(--secundaria);
 }
 
-.canva {
+.powerbi {
   padding: 2rem;
   max-width: 500px;
   border-radius: 16px;
@@ -248,7 +248,7 @@ h1 {
   background: rgba(225, 225, 225, 0.05);
 }
 
-.canva:hover {
+.powerbi:hover {
   color: var(--secundaria);
 }
 
